@@ -117,7 +117,7 @@ df = merge(Pitching, career.pitching, by = "playerID")
 career.10000 = subset(career.pitching, c.IPouts >= 10000)
 
 with(career.10000, plot(midYear, SO / BB))
-with(career.10000, lines(lowess(midYear, SO / BB))
+with(career.10000, lines(lowess(midYear, SO / BB)))
 # Pitchers' SO/BB ratio declined for those whose mid career year was 1880 
 # to about 1920, and has steadily increased for those pitchers with mid
 # career years about 1920 to present day.
