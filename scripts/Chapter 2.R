@@ -1,9 +1,9 @@
 ##############################################
-# Section 2.12 - Chapter 2 Exercises
+#    Section 2.12 - Chapter 2 Exercises
 #
-# data files: Pitching
+#           data: Pitching
 #
-#   packages: Lahman, plyr
+#       packages: Lahman, plyr
 ##############################################
 
 ##############################################
