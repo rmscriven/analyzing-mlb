@@ -7,6 +7,8 @@ This repository is for supplemental solutions to the end-of-chapter exercises fo
 
 *This project is still in active development. Feel free to contact me with any issues/bugs/suggestions*
 
+Note:  In solution file headers, if "alternate" is TRUE, there will be an alternate solution set with more efficient code and programming methods.
+
 There are a number of tasks at hand, the first being the primary goal.  They are to
 
 1. Provide solutions based on the material covered in each chapter.
