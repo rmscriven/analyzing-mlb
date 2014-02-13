@@ -1,5 +1,5 @@
-baseball_R
-==========
+analyzing-mlb
+=============
 
 Supplemental solutions to chapter exercises - "Analyzing Baseball Data with R" (Albert &amp; Marchi, 2013)
 
